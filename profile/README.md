@@ -1,5 +1,3 @@
-Here's the complete README file for our URL Shortener Service:
-
 ---
 
 # URL Shortener Service
