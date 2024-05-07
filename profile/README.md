@@ -4,7 +4,7 @@ Here's the complete README file for our URL Shortener Service:
 
 # URL Shortener Backend Service
 
-This repository contains the backend code for a URL shortener service built with Spring Boot and Maven. It allows users to shorten URLs and retrieve the original URLs using both authenticated and guest endpoints.
+The `backend` folder contains the backend code for a URL shortener service built with Spring Boot and Maven. It allows users to shorten URLs and retrieve the original URLs using both authenticated and guest endpoints.
 
 ## Setup Instructions
 
