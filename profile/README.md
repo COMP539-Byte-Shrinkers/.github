@@ -106,9 +106,9 @@ The final service, including the frontend, is available at:
 
 [Visit Byte Shrinker v2](https://byte-shrinker-v2.surge.sh/)
 
-For a visual demonstration of how the service works, check out our demo video on GitHub:
+For a visual demonstration of how the service works, check out our presentation and demo video:
 
-[Watch the Demo Video](https://github.com/link-to-your-demo-video)
+[Watch the presentation and demo](https://docs.google.com/presentation/d/1X8FfI64Z5j1rrbG3wWKXBGAia_R5g79AnVvDKo4Sth8/edit?usp=drive_link)
 
 ---
 
